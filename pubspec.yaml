@@ -22,5 +22,5 @@ flutter:
   assets:
     - assets/gambar_dosen/
     - assets/json_data_chat_dosen/dosen_chat.json
-    - assets/mahasiswa/dana.jpg
+    - assets/mahasiswa/IMG_20250601_213623.jpg
 
